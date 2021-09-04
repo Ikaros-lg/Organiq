@@ -1,0 +1,55 @@
+{
+    "tintuc" : [
+        {
+            "id" : 1,
+            "name" : "Tin tuc 1",
+	        "url" : "images/blog_img1.jpg",
+            "dated" : "20/11/2001",
+            "description" : "11Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt id quia nihil cumque nostrum deleniti voluptas,ea illo, vero eaque tenetur culpa, magnam assumenda dolores nam fugiat commodi ipsa quod?"
+        },
+        {
+            "id" : 2,
+            "name" : "Tin tuc 2",
+	        "url" : "images/blog_img2.jpg",
+            "dated" : "20/11/2002",
+            "description" : "22Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt id quia nihil cumque nostrum deleniti voluptas,ea illo, vero eaque tenetur culpa, magnam assumenda dolores nam fugiat commodi ipsa quod?"
+        },
+        {
+            "id" : 3,
+            "name" : "Tin tuc 3",
+	        "url" : "images/blog_img3.jpg",
+            "dated" : "20/11/2003",
+            "description" : "33Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt id quia nihil cumque nostrum deleniti voluptas,ea illo, vero eaque tenetur culpa, magnam assumenda dolores nam fugiat commodi ipsa quod?"
+        },
+        {
+            "id" : 4,
+            "name" : "Tin tuc 4",
+	        "url" : "images/blog_img4.jpg",
+            "dated" : "20/11/2004",
+            "description" : "22Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt id quia nihil cumque nostrum deleniti voluptas,ea illo, vero eaque tenetur culpa, magnam assumenda dolores nam fugiat commodi ipsa quod?"
+        },
+        {
+            "id" : 5,
+            "name" : "Tin tuc 5",
+	        "url" : "images/blog_img5.jpg",
+            "dated" : "20/11/2005",
+            "description" : "22Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt id quia nihil cumque nostrum deleniti voluptas,ea illo, vero eaque tenetur culpa, magnam assumenda dolores nam fugiat commodi ipsa quod?"
+        }
+    ],
+
+    "comment" : [
+        {
+            "id" : 1,
+            "user" : "toan",
+            "comment" : "hay qua"
+        },
+        {
+            "id" : 2,
+            "user" : "huy",
+            "comment" : "hay qua 2"
+        }
+    ]
+
+
+
+}
